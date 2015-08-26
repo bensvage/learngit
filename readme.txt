@@ -5,4 +5,4 @@ Git tracks changes of files
 Second push to remote repository
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-test branch control
+test branch control. this is a test for branch conflicts
